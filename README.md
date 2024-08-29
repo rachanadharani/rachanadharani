@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachanadharani
-- 👀 I’m interested in ...IOT
-- 🌱 I’m currently learning ...IOT
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a fresher looking to start my career in developing
+- 🌱 I’m good in HTML,CSS,JS,REACTJS
+- 💞️ I’m proficient in SQL AND CORE-JAVA...
 - 📫 How to reach me ...rachanadharani1628@gmail.com
 
 <!---
